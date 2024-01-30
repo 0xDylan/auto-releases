@@ -1,6 +1,6 @@
-name: "Automatic Releases"
-author: "marvinpinto"
-description: "Automate the GitHub release process with assets, changelogs, pre-releases, and more"
+name: "Automatic Releases for Node 20"
+author: "shxrklol"
+description: "Automate the GitHub release process with assets, changelogs, pre-releases, and more. Made for Node20"
 inputs:
   repo_token:
     description: "GitHub secret token"
