@@ -1,3 +1,6 @@
+> [!WARNING]
+> This is outdated and discontinued. This is the final version. Consider making your own fork for more updated versions of Node.JS
+
 # GitHub Automatic Releases
 
 This action simplifies the GitHub release process by automatically uploading assets, generating changelogs, handling pre-releases, and so on.
